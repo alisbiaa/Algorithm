@@ -10,9 +10,9 @@ function findResult_1(arr) {
     l = 0;
     r = arr.length - 1;
     while (l < r) {
-        if (arr[r] + arr[l] === condition)
-            return arr[r] * arr[l];
-        else if(arr[r]  + arr[l] < condition )
+        if (parseInt(arr[r]) + parseInt(arr[l]) === condition)
+            return parseInt(arr[r]) * parseInt(arr[l]);
+        else if(parseInt(arr[r])  + parseInt(arr[l]) < condition )
             l++;
         else
             r--;
@@ -32,14 +32,15 @@ function findResult_2(arr) {
         l = i + 1;
         r = arr.length - 1;
         while (l < r) {
-            if (arr[i] + arr[l] + arr[r] === condition)
-                return arr[i] * arr[l] * arr[r];
-            else if (arr[i] + arr[l] + arr[r] < condition)
+            if (parseInt(arr[i]) + parseInt(arr[l]) + parseInt(arr[r]) === condition)
+                return parseInt(arr[i]) * parseInt(arr[l]) * parseInt(arr[r]);
+            else if (parseInt(arr[i]) + parseInt(arr[l]) + parseInt(arr[r]) < condition)
                 l++;
             else
                 r--;
         }
     }
+    return null;
 
 }
 

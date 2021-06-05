@@ -13,7 +13,7 @@ function getInput() {
     return new Promise((resolve, reject) => {
         let data = [];
         function handleData(line) {
-            data.push(parseInt(line));
+            data.push(line);
         }
         function handleEnd() {
             resolve(data);
