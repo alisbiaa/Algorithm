@@ -22,5 +22,7 @@ I am mainly comfortable coding with
     - [Day 1](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%201)
     - [Day 2](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%202)
     - [Day 3](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%203)
+    - [Day 4](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%204)
+    - [Day 5](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%205)
 
 
