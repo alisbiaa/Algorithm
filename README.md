@@ -26,5 +26,6 @@ I am mainly comfortable coding with
     - [Day 5](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%205)
     - [Day 6](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%206)
     - [Day 7](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%207) (pretty challenging)
+    - [Day 8](https://github.com/alisbiaa/Algorithm/tree/main/AdventOfCode/2020/Day%208) 
 
 
